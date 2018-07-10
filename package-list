@@ -16,6 +16,8 @@ androidx.browser.customtabs
 androidx.car.app
 androidx.car.drawer
 androidx.car.moderator
+androidx.car.navigation.utils
+androidx.car.util
 androidx.car.utils
 androidx.car.widget
 androidx.cardview.widget
@@ -84,7 +86,6 @@ androidx.localbroadcastmanager.content
 androidx.media
 androidx.media.app
 androidx.media.session
-androidx.media.subtitle
 androidx.mediarouter.app
 androidx.mediarouter.media
 androidx.paging
